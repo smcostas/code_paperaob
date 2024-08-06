@@ -5,8 +5,7 @@ Content as follows:
 - Obtaining the final data set and tree
 - Pearson correlation between Volume plume loading and Settling velocity
 - Phylogenetic ANOVA: Plume loading ~ pappus_types. Associated graphics
-- Ancestral reconstruction of pappus types using hidden states model (maximum likelihood). Associated graphics
+- Ancestral reconstruction of pappus types using hidden states model (maximum likelihood) and Brownian motion and Ornstein Uhlenbeck models of character evolution (Flight performance - Plume loading). Associated graphics
 - Phylomorphospace
-- Brownian motion and Ornstein Uhlenbeck models of character evolution (Flight performance - Plume loading). Associated graphics
 - Evolutionary allometry in pappus-cypsela size:  Phylogenetic General least Squares - log(Pappus area) ~ log(Cipsela volume). Associated graphics
 - Extra content we did not publish, including beautiful plots. 
