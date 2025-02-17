@@ -4,8 +4,8 @@ All the code was created by me. If you have any questions or need assistance, pl
 Content as follows:
 - [Obtaining the final data set and tree](https://github.com/smcostas/code_paperaob/blob/main/1%29%20df-tree-final.r)
 - [Pearson correlation between Volume plume loading and Settling velocity](https://github.com/smcostas/code_paperaob/blob/main/2%29%20cor-sv-pl.r)
-- Phylogenetic ANOVA: Plume loading ~ pappus_types. Associated graphics
-- Ancestral reconstruction of pappus types using hidden states model (maximum likelihood) and Brownian motion and Ornstein Uhlenbeck models of character evolution (Flight performance - Plume loading). Associated graphics
-- Phylomorphospace
-- Evolutionary allometry in pappus-cypsela size:  Phylogenetic General least Squares - log(Pappus area) ~ log(Cipsela volume). Associated graphics
+- [Phylogenetic ANOVA: Plume loading ~ pappus_types. Associated graphics](https://github.com/smcostas/code_paperaob/blob/main/3%29%20panova.r)
+- [Ancestral reconstruction of pappus types using hidden states model (maximum likelihood) and Brownian motion and Ornstein Uhlenbeck models of character evolution (Flight performance - Plume loading). Associated graphics](https://github.com/smcostas/code_paperaob/blob/main/4%29%20simmap_oumodels.r)
+- [Phylomorphospace](https://github.com/smcostas/code_paperaob/blob/main/5%29%20phylomorphospace.R)
+- [Evolutionary allometry in pappus-cypsela size:  Phylogenetic General least Squares - log(Pappus area) ~ log(Cipsela volume). Associated graphics](https://github.com/smcostas/code_paperaob/blob/main/6%29%20pgls-evolalometry.R)
 - Extra content we did not publish, including beautiful plots. 
