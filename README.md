@@ -3,7 +3,7 @@ In this repository, you will find code and data for the manusctipt DOI: 10.1093/
 All the code was created by me. If you have any questions or need assistance, please contact me at scostas@imbiv.unc.edu.ar.
 Content as follows:
 - [Obtaining the final data set and tree](https://github.com/smcostas/code_paperaob/blob/main/1%29%20df-tree-final.r)
-- Pearson correlation between Volume plume loading and Settling velocity
+- [Pearson correlation between Volume plume loading and Settling velocity](https://github.com/smcostas/code_paperaob/blob/main/2%29%20cor-sv-pl.r)
 - Phylogenetic ANOVA: Plume loading ~ pappus_types. Associated graphics
 - Ancestral reconstruction of pappus types using hidden states model (maximum likelihood) and Brownian motion and Ornstein Uhlenbeck models of character evolution (Flight performance - Plume loading). Associated graphics
 - Phylomorphospace
